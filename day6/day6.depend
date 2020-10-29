@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603871804 source:c:\users\microsoft\desktop\projects\lab c\day6\main.c
+	<stdio.h>
+	<stdlib.h>
+
